@@ -118,7 +118,7 @@ Maven/ Spring/ Security/ JPA(Hibernate)/ REST(Jackson)/ Bootstrap(CSS)/ jQuery +
 - Разбор домашнего задания HW10 + Optional
 - Рефакторинг
 - Фильтруем JSON через @JsonView 
-- Деплой (http://topjava.herokuapp.com/">приложения в Heroku</a>
+- Деплой [приложения в Heroku](http://topjava.herokuapp.com)
 - Возможные доработки приложения
 - Опрос участников проекта
 - Домашнее задание по проекту: составление резюме
