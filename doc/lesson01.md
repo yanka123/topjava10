@@ -110,7 +110,6 @@
 #### Проверочные вопросы:
 - Что нужно изменить в `pom.xml`, чтобы перейти с logback на log4j ?
 
-### ![video](https://cloud.githubusercontent.com/assets/13649199/13672715/06dbc6ce-e6e7-11e5-81a9-04fbddb9e488.png) 6. <a href="https://drive.google.com/open?id=0B9Ye2auQ_NsFeE9LQTdDOTZTOGc">Подсоединение к логгеру по JMX. Выбор работы.</a>
 ### ![question](https://cloud.githubusercontent.com/assets/13649199/13672858/9cd58692-e6e7-11e5-905d-c295d2a456f1.png) Ваши вопросы
 
 >  Используются ли еще где-то в реальной разработке JSP, или это уже устаревшая технология? Заменит ли ее JSF (https://javatalks.ru/topics/38037)?
